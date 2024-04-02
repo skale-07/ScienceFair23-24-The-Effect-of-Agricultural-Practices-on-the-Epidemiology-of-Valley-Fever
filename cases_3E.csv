@@ -1,0 +1,676 @@
+Agricultural Practice,Day,Cases
+Control,1,1.0
+Control,2,1.61
+Control,3,2.58
+Control,4,4.15
+Control,5,6.67
+Control,6,10.72
+Control,7,17.23
+Control,8,27.7
+Control,9,44.52
+Control,10,71.55
+Control,11,115.0
+Control,12,184.82
+Control,13,297.04
+Control,14,477.4
+Control,15,767.28
+Control,16,1233.16
+Control,17,1981.9
+Control,18,3185.26
+Control,19,5119.21
+Control,20,8227.25
+Control,21,13221.98
+Control,22,21248.22
+Control,23,34144.67
+Control,24,54863.33
+Control,25,88140.43
+Control,26,141566.96
+Control,27,227288.8
+Control,28,364687.21
+Control,29,584554.14
+Control,30,935466.7
+Control,31,1493191.81
+Control,32,2373740.99
+Control,33,3749461.36
+Control,34,5863888.45
+Control,35,9032948.16
+Control,36,13607006.95
+Control,37,19859056.94
+Control,38,27788198.03
+Control,39,36918644.84
+Control,40,46283808.73
+Control,41,54725930.38
+Control,42,61351397.13
+Control,43,65802239.39
+Control,44,68205447.76
+Control,45,68948888.36
+Control,46,68476123.11
+Control,47,67174733.75
+Control,48,65341846.86
+Control,49,63189271.28
+Control,50,60861726.01
+Control,51,58455567.71
+Control,52,56033841.51
+Control,53,53637188.06
+Control,54,51291353.69
+Control,55,49012229.54
+Control,56,46809192.28
+Control,57,44687310.16
+Control,58,42648800.95
+Control,59,40693999.12
+Control,60,38822000.82
+Control,61,37031096.45
+Control,62,35319062.72
+Control,63,33683360.7
+Control,64,32121270.83
+Control,65,30629985.17
+Control,66,29206670.52
+Control,67,27848511.37
+Control,68,26552739.03
+Control,69,25316651.05
+Control,70,24137623.84
+Control,71,23013120.5
+Control,72,21940695.35
+Control,73,20917995.93
+Control,74,19942763.5
+Control,75,19012832.18
+Control,76,18126127.41
+Control,77,17280663.74
+Control,78,16474542.3
+Control,79,15705948.0
+Control,80,14973146.58
+Control,81,14274481.64
+Control,82,13608371.55
+Control,83,12973306.48
+Control,84,12367845.42
+Control,85,11790613.24
+Control,86,11240297.88
+Control,87,10715647.64
+Control,88,10215468.44
+Control,89,9738621.32
+Control,90,9284019.97
+Control,91,8850628.33
+Control,92,8437458.35
+Control,93,8043567.77
+Control,94,7668058.06
+Control,95,7310072.43
+Control,96,6968793.87
+Control,97,6643443.37
+Control,98,6333278.14
+Control,99,6037589.95
+Control,100,5755703.54
+Control,101,5486975.07
+Control,102,5230790.7
+Control,103,4986565.19
+Control,104,4753740.54
+Control,105,4531784.77
+Control,106,4320190.7
+Control,107,4118474.79
+Control,108,3926176.02
+Control,109,3742854.91
+Control,110,3568092.44
+Control,111,3401489.15
+Control,112,3242664.19
+Control,113,3091254.51
+Control,114,2946913.97
+Control,115,2809312.58
+Control,116,2678135.76
+Control,117,2553083.61
+Control,118,2433870.2
+Control,119,2320222.96
+Control,120,2211882.05
+Control,121,2108599.73
+Control,122,2010139.85
+Control,123,1916277.26
+Control,124,1826797.32
+Control,125,1741495.44
+Control,126,1660176.53
+Control,127,1582654.64
+Control,128,1508752.49
+Control,129,1438301.09
+Control,130,1371139.3
+Control,131,1307113.55
+Control,132,1246077.41
+Control,133,1187891.29
+Control,134,1132422.12
+Control,135,1079543.04
+Control,136,1029133.11
+Control,137,981077.06
+Control,138,935264.96
+Control,139,891592.04
+Control,140,849958.43
+Control,141,810268.89
+Control,142,772432.66
+Control,143,736363.19
+Control,144,701977.99
+Control,145,669198.42
+Control,146,637949.5
+Control,147,608159.76
+Control,148,579761.06
+Control,149,552688.46
+Control,150,526880.03
+Control,151,502276.74
+Control,152,478822.32
+Control,153,456463.11
+Control,154,435147.99
+Control,155,414828.2
+Control,156,395457.25
+Control,157,376990.85
+Control,158,359386.76
+Control,159,342604.71
+Control,160,326606.31
+Control,161,311354.97
+Control,162,296815.81
+Control,163,282955.58
+Control,164,269742.56
+Control,165,257146.54
+Control,166,245138.71
+Control,167,233691.59
+Control,168,222779.02
+Control,169,212376.02
+Control,170,202458.8
+Control,171,193004.68
+Control,172,183992.03
+Control,173,175400.24
+Control,174,167209.66
+Control,175,159401.54
+Control,176,151958.04
+Control,177,144862.12
+Control,178,138097.56
+Control,179,131648.87
+Control,180,125501.32
+Control,181,119640.84
+Control,182,114054.02
+Control,183,108728.08
+Control,184,103650.85
+Control,185,98810.71
+Control,186,94196.58
+Control,187,89797.92
+Control,188,85604.66
+Control,189,81607.21
+Control,190,77796.43
+Control,191,74163.6
+Control,192,70700.4
+Control,193,67398.93
+Control,194,64251.63
+Control,195,61251.29
+Control,196,58391.06
+Control,197,55664.4
+Control,198,53065.05
+Control,199,50587.09
+Control,200,48224.84
+Control,201,45972.91
+Control,202,43826.12
+Control,203,41779.59
+Control,204,39828.62
+Control,205,37968.76
+Control,206,36195.74
+Control,207,34505.52
+Control,208,32894.23
+Control,209,31358.18
+Control,210,29893.85
+Control,211,28497.91
+Control,212,27167.15
+Control,213,25898.54
+Control,214,24689.16
+Control,215,23536.26
+Control,216,22437.19
+Control,217,21389.45
+Control,218,20390.63
+Control,219,19438.46
+Control,220,18530.75
+Control,221,17665.42
+Control,222,16840.51
+Control,223,16054.11
+Control,224,15304.44
+Control,225,14589.77
+Organic Material Cover,1,1.0
+Organic Material Cover,2,1.25
+Organic Material Cover,3,1.56
+Organic Material Cover,4,1.95
+Organic Material Cover,5,2.44
+Organic Material Cover,6,3.04
+Organic Material Cover,7,3.8
+Organic Material Cover,8,4.75
+Organic Material Cover,9,5.93
+Organic Material Cover,10,7.41
+Organic Material Cover,11,9.25
+Organic Material Cover,12,11.56
+Organic Material Cover,13,14.44
+Organic Material Cover,14,18.04
+Organic Material Cover,15,22.53
+Organic Material Cover,16,28.14
+Organic Material Cover,17,35.16
+Organic Material Cover,18,43.92
+Organic Material Cover,19,54.86
+Organic Material Cover,20,68.53
+Organic Material Cover,21,85.61
+Organic Material Cover,22,106.94
+Organic Material Cover,23,133.59
+Organic Material Cover,24,166.88
+Organic Material Cover,25,208.46
+Organic Material Cover,26,260.4
+Organic Material Cover,27,325.29
+Organic Material Cover,28,406.35
+Organic Material Cover,29,507.6
+Organic Material Cover,30,634.08
+Organic Material Cover,31,792.08
+Organic Material Cover,32,989.45
+Organic Material Cover,33,1236.01
+Organic Material Cover,34,1543.99
+Organic Material Cover,35,1928.71
+Organic Material Cover,36,2409.3
+Organic Material Cover,37,3009.63
+Organic Material Cover,38,3759.53
+Organic Material Cover,39,4696.27
+Organic Material Cover,40,5866.4
+Organic Material Cover,41,7328.05
+Organic Material Cover,42,9153.82
+Organic Material Cover,43,11434.41
+Organic Material Cover,44,14283.06
+Organic Material Cover,45,17841.21
+Organic Material Cover,46,22285.47
+Organic Material Cover,47,27836.33
+Organic Material Cover,48,34769.1
+Organic Material Cover,49,43427.39
+Organic Material Cover,50,54240.07
+Organic Material Cover,51,67742.23
+Organic Material Cover,52,84601.32
+Organic Material Cover,53,105649.6
+Organic Material Cover,54,131924.35
+Organic Material Cover,55,164717.64
+Organic Material Cover,56,205637.76
+Organic Material Cover,57,256684.87
+Organic Material Cover,58,320343.66
+Organic Material Cover,59,399696.47
+Organic Material Cover,60,498560.39
+Organic Material Cover,61,621652.0
+Organic Material Cover,62,774783.47
+Organic Material Cover,63,965092.29
+Organic Material Cover,64,1201305.62
+Organic Material Cover,65,1494036.15
+Organic Material Cover,66,1856100.54
+Organic Material Cover,67,2302841.95
+Organic Material Cover,68,2852423.86
+Organic Material Cover,69,3526041.74
+Organic Material Cover,70,4347972.48
+Organic Material Cover,71,5345348.25
+Organic Material Cover,72,6547506.46
+Organic Material Cover,73,7984739.38
+Organic Material Cover,74,9686262.54
+Organic Material Cover,75,11677264.36
+Organic Material Cover,76,13975022.43
+Organic Material Cover,77,16584294.6
+Organic Material Cover,78,19492514.39
+Organic Material Cover,79,22665676.75
+Organic Material Cover,80,26046061.65
+Organic Material Cover,81,29552930.5
+Organic Material Cover,82,33086898.22
+Organic Material Cover,83,36537842.43
+Organic Material Cover,84,39795198.87
+Organic Material Cover,85,42758708.28
+Organic Material Cover,86,45347489.91
+Organic Material Cover,87,47505823.78
+Organic Material Cover,88,49204987.73
+Organic Material Cover,89,50441509.24
+Organic Material Cover,90,51232886.7
+Organic Material Cover,91,51612070.32
+Organic Material Cover,92,51621835.51
+Organic Material Cover,93,51309825.03
+Organic Material Cover,94,50724644.68
+Organic Material Cover,95,49913091.73
+Organic Material Cover,96,48918400.82
+Organic Material Cover,97,47779304.71
+Organic Material Cover,98,46529690.38
+Organic Material Cover,99,45198654.6
+Organic Material Cover,100,43810802.96
+Organic Material Cover,101,42386678.3
+Organic Material Cover,102,40943240.56
+Organic Material Cover,103,39494348.03
+Organic Material Cover,104,38051211.17
+Organic Material Cover,105,36622803.94
+Organic Material Cover,106,35216226.64
+Organic Material Cover,107,33837020.07
+Organic Material Cover,108,32489433.91
+Organic Material Cover,109,31176653.59
+Organic Material Cover,110,29900990.79
+Organic Material Cover,111,28664042.54
+Organic Material Cover,112,27466823.44
+Organic Material Cover,113,26309875.48
+Organic Material Cover,114,25193358.75
+Organic Material Cover,115,24117126.54
+Organic Material Cover,116,23080787.21
+Organic Material Cover,117,22083755.3
+Organic Material Cover,118,21125293.6
+Organic Material Cover,119,20204547.79
+Organic Material Cover,120,19320574.92
+Organic Material Cover,121,18472366.85
+Organic Material Cover,122,17658869.41
+Organic Material Cover,123,16878998.18
+Organic Material Cover,124,16131651.3
+Organic Material Cover,125,15415719.96
+Organic Material Cover,126,14730096.85
+Organic Material Cover,127,14073683.05
+Organic Material Cover,128,13445393.46
+Organic Material Cover,129,12844161.21
+Organic Material Cover,130,12268941.05
+Organic Material Cover,131,11718711.99
+Organic Material Cover,132,11192479.31
+Organic Material Cover,133,10689276.02
+Organic Material Cover,134,10208163.88
+Organic Material Cover,135,9748234.05
+Organic Material Cover,136,9308607.47
+Organic Material Cover,137,8888434.92
+Organic Material Cover,138,8486896.99
+Organic Material Cover,139,8103203.78
+Organic Material Cover,140,7736594.51
+Organic Material Cover,141,7386337.03
+Organic Material Cover,142,7051727.26
+Organic Material Cover,143,6732088.51
+Organic Material Cover,144,6426770.81
+Organic Material Cover,145,6135150.14
+Organic Material Cover,146,5856627.72
+Organic Material Cover,147,5590629.18
+Organic Material Cover,148,5336603.81
+Organic Material Cover,149,5094023.78
+Organic Material Cover,150,4862383.28
+Organic Material Cover,151,4641197.84
+Organic Material Cover,152,4430003.46
+Organic Material Cover,153,4228355.91
+Organic Material Cover,154,4035829.99
+Organic Material Cover,155,3852018.74
+Organic Material Cover,156,3676532.79
+Organic Material Cover,157,3508999.62
+Organic Material Cover,158,3349062.94
+Organic Material Cover,159,3196381.97
+Organic Material Cover,160,3050630.87
+Organic Material Cover,161,2911498.09
+Organic Material Cover,162,2778685.78
+Organic Material Cover,163,2651909.23
+Organic Material Cover,164,2530896.33
+Organic Material Cover,165,2415386.99
+Organic Material Cover,166,2305132.7
+Organic Material Cover,167,2199895.97
+Organic Material Cover,168,2099449.89
+Organic Material Cover,169,2003577.69
+Organic Material Cover,170,1912072.26
+Organic Material Cover,171,1824735.77
+Organic Material Cover,172,1741379.24
+Organic Material Cover,173,1661822.18
+Organic Material Cover,174,1585892.18
+Organic Material Cover,175,1513424.59
+Organic Material Cover,176,1444262.17
+Organic Material Cover,177,1378254.76
+Organic Material Cover,178,1315258.96
+Organic Material Cover,179,1255137.83
+Organic Material Cover,180,1197760.64
+Organic Material Cover,181,1143002.53
+Organic Material Cover,182,1090744.32
+Organic Material Cover,183,1040872.19
+Organic Material Cover,184,993277.49
+Organic Material Cover,185,947856.49
+Organic Material Cover,186,904510.14
+Organic Material Cover,187,863143.91
+Organic Material Cover,188,823667.53
+Organic Material Cover,189,785994.85
+Organic Material Cover,190,750043.61
+Organic Material Cover,191,715735.31
+Organic Material Cover,192,682995.0
+Organic Material Cover,193,651751.13
+Organic Material Cover,194,621935.42
+Organic Material Cover,195,593482.7
+Organic Material Cover,196,566330.73
+Organic Material Cover,197,540420.15
+Organic Material Cover,198,515694.26
+Organic Material Cover,199,492098.98
+Organic Material Cover,200,469582.66
+Organic Material Cover,201,448096.02
+Organic Material Cover,202,427592.04
+Organic Material Cover,203,408025.8
+Organic Material Cover,204,389354.47
+Organic Material Cover,205,371537.16
+Organic Material Cover,206,354534.84
+Organic Material Cover,207,338310.25
+Organic Material Cover,208,322827.87
+Organic Material Cover,209,308053.75
+Organic Material Cover,210,293955.52
+Organic Material Cover,211,280502.28
+Organic Material Cover,212,267664.55
+Organic Material Cover,213,255414.18
+Organic Material Cover,214,243724.32
+Organic Material Cover,215,232569.32
+Organic Material Cover,216,221924.75
+Organic Material Cover,217,211767.24
+Organic Material Cover,218,202074.54
+Organic Material Cover,219,192825.37
+Organic Material Cover,220,183999.45
+Organic Material Cover,221,175577.42
+Organic Material Cover,222,167540.8
+Organic Material Cover,223,159871.97
+Organic Material Cover,224,152554.1
+Organic Material Cover,225,145571.14
+Mulch,1,1.0
+Mulch,2,1.29
+Mulch,3,1.66
+Mulch,4,2.14
+Mulch,5,2.75
+Mulch,6,3.55
+Mulch,7,4.57
+Mulch,8,5.89
+Mulch,9,7.58
+Mulch,10,9.77
+Mulch,11,12.58
+Mulch,12,16.21
+Mulch,13,20.88
+Mulch,14,26.9
+Mulch,15,34.65
+Mulch,16,44.63
+Mulch,17,57.49
+Mulch,18,74.06
+Mulch,19,95.4
+Mulch,20,122.89
+Mulch,21,158.31
+Mulch,22,203.93
+Mulch,23,262.69
+Mulch,24,338.39
+Mulch,25,435.91
+Mulch,26,561.53
+Mulch,27,723.34
+Mulch,28,931.79
+Mulch,29,1200.3
+Mulch,30,1546.19
+Mulch,31,1991.75
+Mulch,32,2565.7
+Mulch,33,3305.04
+Mulch,34,4257.41
+Mulch,35,5484.2
+Mulch,36,7064.45
+Mulch,37,9099.99
+Mulch,38,11721.94
+Mulch,39,15099.19
+Mulch,40,19449.21
+Mulch,41,25052.0
+Mulch,42,32268.07
+Mulch,43,41561.47
+Mulch,44,53529.39
+Mulch,45,68940.19
+Mulch,46,88782.1
+Mulch,47,114325.55
+Mulch,48,147202.77
+Mulch,49,189509.29
+Mulch,50,243932.81
+Mulch,51,313916.18
+Mulch,52,403862.4
+Mulch,53,519390.63
+Mulch,54,667652.66
+Mulch,55,857718.95
+Mulch,56,1101041.24
+Mulch,57,1411992.37
+Mulch,58,1808473.11
+Mulch,59,2312554.74
+Mulch,60,2951092.98
+Mulch,61,3756197.06
+Mulch,62,4765365.14
+Mulch,63,6021004.47
+Mulch,64,7568955.07
+Mulch,65,9455563.38
+Mulch,66,11722874.45
+Mulch,67,14401724.31
+Mulch,68,17503022.75
+Mulch,69,21008350.86
+Mulch,70,24861999.64
+Mulch,71,28967310.29
+Mulch,72,33190009.44
+Mulch,73,37369719.57
+Mulch,74,41338196.2
+Mulch,75,44940223.5
+Mulch,76,48051909.79
+Mulch,77,50592106.61
+Mulch,78,52525256.15
+Mulch,79,53856752.92
+Mulch,80,54623629.54
+Mulch,81,54883678.15
+Mulch,82,54705385.73
+Mulch,83,54159976.65
+Mulch,84,53315910.95
+Mulch,85,52235596.36
+Mulch,86,50973813.07
+Mulch,87,49577317.88
+Mulch,88,48085174.69
+Mulch,89,46529474.54
+Mulch,90,44936218.44
+Mulch,91,43326222.97
+Mulch,92,41715970.98
+Mulch,93,40118370.27
+Mulch,94,38543407.92
+Mulch,95,36998702.1
+Mulch,96,35489960.34
+Mulch,97,34021355.95
+Mulch,98,32595834.89
+Mulch,99,31215364.78
+Mulch,100,29881136.01
+Mulch,101,28593724.09
+Mulch,102,27353220.25
+Mulch,103,26159336.65
+Mulch,104,25011490.91
+Mulch,105,23908874.15
+Mulch,106,22850505.61
+Mulch,107,21835276.66
+Mulch,108,20861986.06
+Mulch,109,19929368.3
+Mulch,110,19036116.3
+Mulch,111,18180899.57
+Mulch,112,17362378.71
+Mulch,113,16579216.87
+Mulch,114,15830088.84
+Mulch,115,15113688.22
+Mulch,116,14428732.84
+Mulch,117,13773969.09
+Mulch,118,13148175.03
+Mulch,119,12550162.7
+Mulch,120,11978779.75
+Mulch,121,11432910.51
+Mulch,122,10911476.52
+Mulch,123,10413436.82
+Mulch,124,9937787.84
+Mulch,125,9483563.09
+Mulch,126,9049832.66
+Mulch,127,8635702.56
+Mulch,128,8240313.99
+Mulch,129,7862842.45
+Mulch,130,7502496.82
+Mulch,131,7158518.43
+Mulch,132,6830180.01
+Mulch,133,6516784.73
+Mulch,134,6217665.12
+Mulch,135,5932182.09
+Mulch,136,5659723.86
+Mulch,137,5399704.99
+Mulch,138,5151565.35
+Mulch,139,4914769.19
+Mulch,140,4688804.13
+Mulch,141,4473180.26
+Mulch,142,4267429.25
+Mulch,143,4071103.42
+Mulch,144,3883774.96
+Mulch,145,3705035.02
+Mulch,146,3534492.98
+Mulch,147,3371775.66
+Mulch,148,3216526.56
+Mulch,149,3068405.17
+Mulch,150,2927086.29
+Mulch,151,2792259.31
+Mulch,152,2663627.65
+Mulch,153,2540908.11
+Mulch,154,2423830.27
+Mulch,155,2312135.97
+Mulch,156,2205578.71
+Mulch,157,2103923.22
+Mulch,158,2006944.86
+Mulch,159,1914429.22
+Mulch,160,1826171.66
+Mulch,161,1741976.83
+Mulch,162,1661658.28
+Mulch,163,1585038.07
+Mulch,164,1511946.38
+Mulch,165,1442221.14
+Mulch,166,1375707.67
+Mulch,167,1312258.39
+Mulch,168,1251732.44
+Mulch,169,1193995.41
+Mulch,170,1138919.06
+Mulch,171,1086381.0
+Mulch,172,1036264.47
+Mulch,173,988458.04
+Mulch,174,942855.4
+Mulch,175,899355.12
+Mulch,176,857860.42
+Mulch,177,818278.96
+Mulch,178,780522.63
+Mulch,179,744507.39
+Mulch,180,710153.04
+Mulch,181,677383.08
+Mulch,182,646124.51
+Mulch,183,616307.7
+Mulch,184,587866.21
+Mulch,185,560736.67
+Mulch,186,534858.6
+Mulch,187,510174.33
+Mulch,188,486628.83
+Mulch,189,464169.61
+Mulch,190,442746.58
+Mulch,191,422311.97
+Mulch,192,402820.21
+Mulch,193,384227.81
+Mulch,194,366493.32
+Mulch,195,349577.16
+Mulch,196,333441.6
+Mulch,197,318050.62
+Mulch,198,303369.9
+Mulch,199,289366.66
+Mulch,200,276009.66
+Mulch,201,263269.09
+Mulch,202,251116.5
+Mulch,203,239524.78
+Mulch,204,228468.05
+Mulch,205,217921.62
+Mulch,206,207861.96
+Mulch,207,198266.59
+Mulch,208,189114.11
+Mulch,209,180384.07
+Mulch,210,172056.97
+Mulch,211,164114.24
+Mulch,212,156538.12
+Mulch,213,149311.71
+Mulch,214,142418.86
+Mulch,215,135844.18
+Mulch,216,129572.98
+Mulch,217,123591.27
+Mulch,218,117885.67
+Mulch,219,112443.45
+Mulch,220,107252.45
+Mulch,221,102301.08
+Mulch,222,97578.27
+Mulch,223,93073.48
+Mulch,224,88776.65
+Mulch,225,84678.17
